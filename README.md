@@ -12,6 +12,10 @@
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-E14E1D?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Css-0277BD?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-React-0D9BBA?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+### Framework
+<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank"></a>
+
 ### Database
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MySQL-005F89?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 ### DevOps
