@@ -3,10 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=088bde&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I+am+Guilherme+Zampieri+🤠;Welcome+to+my+coding+world!+😉)](https://git.io/typing-svg)
 
 ## My Skills
-### Back-end 
+### Full-Stack 
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Java-CA701F?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Csharp-953CAD?style=for-the-badge&logo=cs&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-PHP-7479B1?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
+<i class="devicon-javascript-plain colored"></i>
+
 ### Front-end
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-E4B204?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-E14E1D?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
