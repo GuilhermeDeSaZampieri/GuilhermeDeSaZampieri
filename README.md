@@ -25,13 +25,13 @@
     alt="GitHub Stats" 
     width="55%"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GuilhermeDeSaZampieri&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://nirzak-streak-stats.vercel.app/?user=GuilhermeDeSaZampieri&theme=tokyonight&hide_border=true" 
   />
   <img 
     align="left" 
-    width="36%"
+    width="34%"
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeSaZampieri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeSaZampieri&theme=tokyonight&hide_border=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
   <br/><br/>
