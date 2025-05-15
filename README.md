@@ -29,9 +29,9 @@
   />
   <img 
     align="left" 
-    width="34%"
+    width="40%"
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeSaZampieri&theme=tokyonight&hide_border=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeSaZampieri&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&custom_title=Tecnologias&langs_count=9&hide=c%2B%2B" 
   />
 </p>
   <br/><br/>
